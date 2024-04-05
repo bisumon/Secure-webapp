@@ -1,4 +1,5 @@
 images/items/**.jpg
 images/items/**.jpeg
 images/items/**.png
+vendor/bootstrap-5.3.3
 scss/
