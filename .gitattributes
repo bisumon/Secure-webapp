@@ -1,2 +1,2 @@
-css/ linguist-generated
-vendor/ linguist-vendored
+css/** linguist-generated
+vendor/** linguist-vendored
